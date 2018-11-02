@@ -1,41 +1,33 @@
 
-![alt text](https://forum.beam-mw.com/uploads/beam_mw/original/1X/261e2a2eba2b6c8aadae678673f9e8e09a78f5cf.png "Beam Logo")
-
-BEAM is a next generation scalable, confidential cryptocurrency based on an elegant and innovative [Mimblewimble protocol](https://www.scribd.com/document/382681522/The-Mimblewimble-white-papers).
-
-[twitter](https://twitter.com/beamprivacy) | [medium](https://medium.com/beam-mw) | [reddit](https://www.reddit.com/r/beamprivacy/) | [beam forum](http://forum.beam-mw.com) | [gitter](https://gitter.im/beamprivacy/Lobby) | [telegram](https://t.me/BeamPrivacy) | [bitcointalk](https://bitcointalk.org/index.php?topic=4969510) | [youtube](https://www.youtube.com/channel/UCddqBnfSPWibf4f8OnEJm_w?) | [facebook](https://www.facebook.com/Beamprivacy)
 
 
-[Read our position paper](https://www.scribd.com/document/382680718/BEAM-Position-Paper-V-0-1)
+WINK is a next generation scalable, confidential cryptocurrency based on an elegant and innovative [Mimblewimble protocol](https://www.scribd.com/document/382681522/The-Mimblewimble-white-papers).
+
+
 
 
 **TESTNET IS LAUNCHED!** 
 http://beam-mw.com/downloads
 
 
-Things that make BEAM special include:
+
+Things that make WINK special include:
 
 * Users have complete control over privacy - a user decides which information will be available and to which parties, having complete control over his personal data in accordance to his will and applicable laws.
-* Confidentiality without penalty - in BEAM confidential transactions do not cause bloating of the blockchain, avoiding excessive computational overhead or penalty on performance or scalability while completely concealing the transaction value.
+* Confidentiality without penalty - in WINK confidential transactions do not cause bloating of the blockchain, avoiding excessive computational overhead or penalty on performance or scalability while completely concealing the transaction value.
 * No trusted setup required
-* Blocks are mined using Equihash Proof-of-Work algorithm.
-* Limited emission using periodic halving.
+* Versatile emission using multiple [Confidential Assets](https://lists.launchpad.net/mimblewimble/msg00103.html).
 * No addresses are stored in the blockchain - no information whatsoever about either the sender or the receiver of a transaction is stored in the blockchain.
 * Superior scalability through compact blockchain size - using the “cut-through” feature of
-Mimblewimble makes the BEAM blockchain orders of magnitude smaller than any other
+Mimblewimble makes the WINK blockchain orders of magnitude smaller than any other
 blockchain implementation.
-* BEAM supports many transaction types such as escrow transactions, time locked
+* WINK supports many transaction types such as escrow transactions, time locked
 transactions, atomic swaps and more.
-* No premine. No ICO. Backed by a treasury, emitted from every block during the first five
-years.
+* No premine. No ICO. Backed by thirteen treasuries, with a totally optional dev reward.
 * Implemented from scratch in C++.
 
 # Roadmap
 
-- March 2018     : Project started
-- June 2018       : Internal POC featuring fully functional node and CLI wallet
-- September 2018 : Testnet 1 and Graphical Wallet
-- December 2018  : Mainnet launch
 
 # Current status
 
